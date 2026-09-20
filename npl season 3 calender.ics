@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nepal Premier League//NPL Season 3//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NPL Season 3
+X-WR-TIMEZONE:Asia/Kathmandu
+
+BEGIN:VEVENT
+UID:npl2026-m01@npl.np
+DTSTART:20261026T104500Z
+DTEND:20261026T141500Z
+SUMMARY:Lumbini Lions vs Sudurpaschim Royals
+DESCRIPTION:Match 1 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m02@npl.np
+DTSTART:20261027T064500Z
+DTEND:20261027T101500Z
+SUMMARY:Biratnagar Kings vs Chitwan Rhinos
+DESCRIPTION:Match 2 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m03@npl.np
+DTSTART:20261027T104500Z
+DTEND:20261027T141500Z
+SUMMARY:Karnali Yaks vs Janakpur Bolts
+DESCRIPTION:Match 3 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m04@npl.np
+DTSTART:20261028T104500Z
+DTEND:20261028T141500Z
+SUMMARY:Pokhara Avengers vs Sudurpaschim Royals
+DESCRIPTION:Match 4 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m05@npl.np
+DTSTART:20261029T064500Z
+DTEND:20261029T101500Z
+SUMMARY:Janakpur Bolts vs Kathmandu Gorkhas
+DESCRIPTION:Match 5 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m06@npl.np
+DTSTART:20261029T104500Z
+DTEND:20261029T141500Z
+SUMMARY:Karnali Yaks vs Biratnagar Kings
+DESCRIPTION:Match 6 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m07@npl.np
+DTSTART:20261031T064500Z
+DTEND:20261031T101500Z
+SUMMARY:Lumbini Lions vs Chitwan Rhinos
+DESCRIPTION:Match 7 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m08@npl.np
+DTSTART:20261031T104500Z
+DTEND:20261031T141500Z
+SUMMARY:Sudurpaschim Royals vs Biratnagar Kings
+DESCRIPTION:Match 8 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m09@npl.np
+DTSTART:20261101T104500Z
+DTEND:20261101T141500Z
+SUMMARY:Janakpur Bolts vs Pokhara Avengers
+DESCRIPTION:Match 9 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m10@npl.np
+DTSTART:20261102T064500Z
+DTEND:20261102T101500Z
+SUMMARY:Kathmandu Gorkhas vs Karnali Yaks
+DESCRIPTION:Match 10 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m11@npl.np
+DTSTART:20261102T104500Z
+DTEND:20261102T141500Z
+SUMMARY:Sudurpaschim Royals vs Chitwan Rhinos
+DESCRIPTION:Match 11 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m12@npl.np
+DTSTART:20261103T064500Z
+DTEND:20261103T101500Z
+SUMMARY:Biratnagar Kings vs Janakpur Bolts
+DESCRIPTION:Match 12 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m13@npl.np
+DTSTART:20261103T104500Z
+DTEND:20261103T141500Z
+SUMMARY:Lumbini Lions vs Pokhara Avengers
+DESCRIPTION:Match 13 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m14@npl.np
+DTSTART:20261105T064500Z
+DTEND:20261105T101500Z
+SUMMARY:Lumbini Lions vs Janakpur Bolts
+DESCRIPTION:Match 14 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m15@npl.np
+DTSTART:20261105T104500Z
+DTEND:20261105T141500Z
+SUMMARY:Kathmandu Gorkhas vs Biratnagar Kings
+DESCRIPTION:Match 15 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m16@npl.np
+DTSTART:20261106T064500Z
+DTEND:20261106T101500Z
+SUMMARY:Sudurpaschim Royals vs Karnali Yaks
+DESCRIPTION:Match 16 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m17@npl.np
+DTSTART:20261106T104500Z
+DTEND:20261106T141500Z
+SUMMARY:Chitwan Rhinos vs Pokhara Avengers
+DESCRIPTION:Match 17 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m18@npl.np
+DTSTART:20261107T104500Z
+DTEND:20261107T141500Z
+SUMMARY:Kathmandu Gorkhas vs Lumbini Lions
+DESCRIPTION:Match 18 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m19@npl.np
+DTSTART:20261109T064500Z
+DTEND:20261109T101500Z
+SUMMARY:Pokhara Avengers vs Karnali Yaks
+DESCRIPTION:Match 19 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m20@npl.np
+DTSTART:20261109T104500Z
+DTEND:20261109T141500Z
+SUMMARY:Chitwan Rhinos vs Kathmandu Gorkhas
+DESCRIPTION:Match 20 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m21@npl.np
+DTSTART:20261110T104500Z
+DTEND:20261110T141500Z
+SUMMARY:Sudurpaschim Royals vs Janakpur Bolts
+DESCRIPTION:Match 21 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m22@npl.np
+DTSTART:20261112T064500Z
+DTEND:20261112T101500Z
+SUMMARY:Biratnagar Kings vs Pokhara Avengers
+DESCRIPTION:Match 22 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m23@npl.np
+DTSTART:20261112T104500Z
+DTEND:20261112T141500Z
+SUMMARY:Karnali Yaks vs Lumbini Lions
+DESCRIPTION:Match 23 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m24@npl.np
+DTSTART:20261113T064500Z
+DTEND:20261113T101500Z
+SUMMARY:Kathmandu Gorkhas vs Sudurpaschim Royals
+DESCRIPTION:Match 24 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m25@npl.np
+DTSTART:20261113T104500Z
+DTEND:20261113T141500Z
+SUMMARY:Janakpur Bolts vs Chitwan Rhinos
+DESCRIPTION:Match 25 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m26@npl.np
+DTSTART:20261114T104500Z
+DTEND:20261114T141500Z
+SUMMARY:Biratnagar Kings vs Lumbini Lions
+DESCRIPTION:Match 26 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m27@npl.np
+DTSTART:20261115T064500Z
+DTEND:20261115T101500Z
+SUMMARY:Chitwan Rhinos vs Karnali Yaks
+DESCRIPTION:Match 27 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m28@npl.np
+DTSTART:20261115T104500Z
+DTEND:20261115T141500Z
+SUMMARY:Pokhara Avengers vs Kathmandu Gorkhas
+DESCRIPTION:Match 28 - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m29@npl.np
+DTSTART:20261117T104500Z
+DTEND:20261117T141500Z
+SUMMARY:Qualifier 1 (1st Place vs 2nd Place)
+DESCRIPTION:Playoffs - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m30@npl.np
+DTSTART:20261118T104500Z
+DTEND:20261118T141500Z
+SUMMARY:Eliminator (3rd Place vs 4th Place)
+DESCRIPTION:Playoffs - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m31@npl.np
+DTSTART:20261119T104500Z
+DTEND:20261119T141500Z
+SUMMARY:Qualifier 2 (Loser of Q1 vs Winner of Eliminator)
+DESCRIPTION:Playoffs - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+BEGIN:VEVENT
+UID:npl2026-m32@npl.np
+DTSTART:20261121T104500Z
+DTEND:20261121T141500Z
+SUMMARY:NPL Season 3 GRAND FINALE
+DESCRIPTION:Grand Finale - NPL Season 3
+LOCATION:TU International Cricket Stadium, Kirtipur
+END:VEVENT
+
+END:VCALENDAR
